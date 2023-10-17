@@ -1,0 +1,64 @@
+.button {
+  all: unset;
+  align-items: flex-start;
+  border-radius: 32px;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 17px 24px;
+  position: relative;
+}
+
+.button .text-wrapper {
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  text-align: center;
+  width: 133px;
+}
+
+.button.primary {
+  background-color: var(--primary-colorssopa-color-fresh-green);
+}
+
+.button.disable {
+  background-color: var(--secondary-colorswhite-smoke);
+}
+
+.button.ghost {
+  border: 2px solid;
+  border-color: var(--primary-colorsblack);
+}
+
+.button.rounded {
+  background-color: var(--primary-colorsblack);
+}
+
+.button.primary .text-wrapper {
+  color: var(--primary-colorsblack);
+  margin-top: -1px;
+}
+
+.button.disable .text-wrapper {
+  color: var(--secondary-colorssteel);
+  margin-top: -1px;
+}
+
+.button.ghost .text-wrapper {
+  color: var(--primary-colorsblack);
+  margin-top: -2px;
+}
+
+.button.rounded .text-wrapper {
+  color: var(--secondary-colorswhite);
+  margin-top: -1px;
+}
+
+.button.text .text-wrapper {
+  color: var(--primary-colorsblack);
+  margin-top: -1px;
+}

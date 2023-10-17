@@ -1,0 +1,1 @@
+export { IconsBlackUnfillArrowUp } from "./IconsBlackUnfillArrowUp";

@@ -1,0 +1,57 @@
+.card-wrapper {
+  background-image: url(https://cdn.animaapp.com/projects/652e7ef9f98085b3df943d25/releases/652e7feab6383c0002cbbb1f/img/photo-59.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 922px;
+  width: 770px;
+}
+
+.card-wrapper .name {
+  align-items: flex-end;
+  display: inline-flex;
+  gap: 276px;
+  left: 24px;
+  position: relative;
+  top: 846px;
+}
+
+.card-wrapper .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.card-wrapper .text-wrapper-9 {
+  color: var(--primary-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  width: 322px;
+}
+
+.card-wrapper .black-2 {
+  color: var(--secondary-colorssteel);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  width: 322px;
+}
+
+.card-wrapper .button-5 {
+  flex: 0 0 auto !important;
+}
+
+.card-wrapper .button-6 {
+  white-space: nowrap !important;
+  width: fit-content !important;
+}

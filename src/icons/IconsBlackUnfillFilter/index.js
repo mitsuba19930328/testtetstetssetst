@@ -1,0 +1,1 @@
+export { IconsBlackUnfillFilter } from "./IconsBlackUnfillFilter";

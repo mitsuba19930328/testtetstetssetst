@@ -1,0 +1,1 @@
+export { IconsBlackFilledVideoPlay } from "./IconsBlackFilledVideoPlay";

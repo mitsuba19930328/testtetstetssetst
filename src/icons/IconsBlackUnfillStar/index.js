@@ -1,0 +1,1 @@
+export { IconsBlackUnfillStar } from "./IconsBlackUnfillStar";

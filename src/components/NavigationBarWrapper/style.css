@@ -1,0 +1,252 @@
+.navigation-bar-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.navigation-bar-wrapper .instance-node {
+  flex: 0 0 auto !important;
+}
+
+.navigation-bar-wrapper .navigation-bar-hover {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.navigation-bar-wrapper .navigation-wrapper {
+  align-items: flex-start;
+  background-color: var(--secondary-colorswhite);
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 0px 20px;
+  position: relative;
+}
+
+.navigation-bar-wrapper .navigation-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.navigation-bar-wrapper .banner-add-2 {
+  align-items: flex-start;
+  background-color: var(--primary-colorsblack);
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 1440px;
+}
+
+.navigation-bar-wrapper .text-wrapper-16 {
+  color: var(--secondary-colorswhite);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navigation-bar-wrapper .navigation-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 195px;
+  position: relative;
+}
+
+.navigation-bar-wrapper .frame-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 207px;
+  position: relative;
+}
+
+.navigation-bar-wrapper .logo-2 {
+  height: 46px !important;
+  position: relative !important;
+  width: 144px !important;
+}
+
+.navigation-bar-wrapper .link-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.navigation-bar-wrapper .text-wrapper-17 {
+  color: var(--primary-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navigation-bar-wrapper .shoe-finder-2 {
+  align-items: flex-start;
+  background-color: var(--secondary-colorswhite);
+  border: 1px solid;
+  border-color: var(--other-colorsyellowish-green);
+  border-radius: 24px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 8px 12px;
+  position: relative;
+}
+
+.navigation-bar-wrapper .text-wrapper-18 {
+  color: var(--other-colorsyellowish-green);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navigation-bar-wrapper .icons-black-unfill-2 {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.navigation-bar-wrapper .men {
+  align-items: flex-start;
+  background-color: var(--secondary-colorswhite-smoke);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 32px 435px;
+  position: relative;
+}
+
+.navigation-bar-wrapper .content-7 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+}
+
+.navigation-bar-wrapper .men-card {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+}
+
+.navigation-bar-wrapper .men-2 {
+  align-items: flex-start;
+  border-radius: 16px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.navigation-bar-wrapper .photo-4 {
+  height: 343px;
+  object-fit: cover;
+  position: relative;
+  width: 270px;
+}
+
+.navigation-bar-wrapper .div-6 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.navigation-bar-wrapper .text-wrapper-19 {
+  color: var(--primary-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: 270px;
+}
+
+.navigation-bar-wrapper .photo-5 {
+  height: 343px;
+  position: relative;
+  width: 270px;
+}
+
+.navigation-bar-wrapper .text-wrapper-20 {
+  color: var(--primary-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navigation-bar-wrapper .take-the-shoe-finder {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+}
+
+.navigation-bar-wrapper .text-wrapper-21 {
+  color: var(--other-colorsdodger-blue);
+  font-family: var(--underline-text-regular-font-family);
+  font-size: var(--underline-text-regular-font-size);
+  font-style: var(--underline-text-regular-font-style);
+  font-weight: var(--underline-text-regular-font-weight);
+  letter-spacing: var(--underline-text-regular-letter-spacing);
+  line-height: var(--underline-text-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navigation-bar-wrapper .icons-black-unfill-arrow-up-2 {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}

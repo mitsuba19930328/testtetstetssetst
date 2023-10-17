@@ -1,0 +1,1 @@
+export { IconsBlackUnfillShoppingBag } from "./IconsBlackUnfillShoppingBag";

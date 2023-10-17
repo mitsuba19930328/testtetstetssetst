@@ -1,0 +1,1 @@
+export { IconsBlackUnfillUser } from "./IconsBlackUnfillUser";

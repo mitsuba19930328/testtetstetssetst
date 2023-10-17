@@ -1,0 +1,105 @@
+.div-wrapper {
+  align-items: flex-start;
+  background-color: var(--secondary-colorswhite-smoke);
+  border-radius: 16px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 80px 24px 0px 0px;
+  position: relative;
+}
+
+.div-wrapper .content-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+}
+
+.div-wrapper .text-wrapper-10 {
+  color: var(--primary-colorsblack);
+  font-family: var(--headers-t3-font-family);
+  font-size: var(--headers-t3-font-size);
+  font-style: var(--headers-t3-font-style);
+  font-weight: var(--headers-t3-font-weight);
+  letter-spacing: var(--headers-t3-letter-spacing);
+  line-height: var(--headers-t3-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 690px;
+}
+
+.div-wrapper .content-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.div-wrapper .photo-2 {
+  height: 449px;
+  position: relative;
+  width: 409px;
+}
+
+.div-wrapper .heading {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.div-wrapper .frame-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+}
+
+.div-wrapper .text-wrapper-11 {
+  color: var(--primary-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.div-wrapper .frame-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.div-wrapper .icons-black-unfill-star-2 {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}
+
+.div-wrapper .these-stylishly {
+  color: var(--primary-colorsblack);
+  font-family: var(--headers-t7-font-family);
+  font-size: var(--headers-t7-font-size);
+  font-style: var(--headers-t7-font-style);
+  font-weight: var(--headers-t7-font-weight);
+  letter-spacing: var(--headers-t7-letter-spacing);
+  line-height: var(--headers-t7-line-height);
+  position: relative;
+  text-align: center;
+  width: 313px;
+}

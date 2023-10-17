@@ -1,0 +1,1 @@
+export { IconsBlackUnfillInstagram } from "./IconsBlackUnfillInstagram";

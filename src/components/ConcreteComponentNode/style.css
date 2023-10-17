@@ -1,0 +1,73 @@
+.concrete-component-node {
+  align-items: flex-start;
+  background-color: var(--secondary-colorswhite-smoke);
+  border-radius: 16px;
+  display: inline-flex;
+  gap: 10px;
+  padding: 0px 0px 24px;
+  position: relative;
+}
+
+.concrete-component-node .content-6 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+}
+
+.concrete-component-node .photo-3 {
+  height: 498px;
+  position: relative;
+  width: 370px;
+}
+
+.concrete-component-node .name-shop-now {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.concrete-component-node .name-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.concrete-component-node .text-wrapper-12 {
+  color: var(--primary-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  width: 182px;
+}
+
+.concrete-component-node .text-wrapper-13 {
+  color: var(--secondary-colorssteel);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  width: 182px;
+}
+
+.concrete-component-node .button-7 {
+  flex: 0 0 auto !important;
+}
+
+.concrete-component-node .button-8 {
+  white-space: nowrap !important;
+  width: fit-content !important;
+}

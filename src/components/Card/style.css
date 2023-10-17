@@ -1,0 +1,79 @@
+.card {
+  align-items: flex-start;
+  background-color: var(--secondary-colorswhite-smoke);
+  border-radius: 16px;
+  display: inline-flex;
+  gap: 10px;
+  padding: 80px 24px 24px;
+  position: relative;
+}
+
+.card .content-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  position: relative;
+}
+
+.card .img {
+  height: 270px;
+  mix-blend-mode: darken;
+  position: relative;
+  width: 322px;
+}
+
+.card .name-price {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.card .model {
+  color: var(--primary-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  width: 322px;
+}
+
+.card .name-price-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.card .black {
+  color: var(--secondary-colorssteel);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  width: 243px;
+}
+
+.card .element {
+  color: var(--secondary-colorssteel);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  width: 63px;
+}

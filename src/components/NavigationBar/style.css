@@ -1,0 +1,117 @@
+.navigation-bar {
+  align-items: flex-start;
+  background-color: var(--secondary-colorswhite);
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 0px 20px;
+  position: relative;
+}
+
+.navigation-bar .navigation {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.navigation-bar .banner-add {
+  align-items: flex-start;
+  background-color: var(--primary-colorsblack);
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 1440px;
+}
+
+.navigation-bar .p {
+  color: var(--secondary-colorswhite);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navigation-bar .navigation-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 195px;
+  position: relative;
+}
+
+.navigation-bar .frame-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 207px;
+  position: relative;
+}
+
+.navigation-bar .logo-7 {
+  height: 46px !important;
+  position: relative !important;
+  width: 144px !important;
+}
+
+.navigation-bar .link-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.navigation-bar .text-wrapper-14 {
+  color: var(--primary-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navigation-bar .shoe-finder {
+  align-items: flex-start;
+  background-color: var(--secondary-colorswhite);
+  border: 1px solid;
+  border-color: var(--other-colorsyellowish-green);
+  border-radius: 24px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 8px 12px;
+  position: relative;
+}
+
+.navigation-bar .text-wrapper-15 {
+  color: var(--other-colorsyellowish-green);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navigation-bar .icon-instance-node {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}

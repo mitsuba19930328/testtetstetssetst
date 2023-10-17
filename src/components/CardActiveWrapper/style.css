@@ -1,0 +1,96 @@
+.card-active-wrapper .overlap-group-wrapper {
+  height: 502px;
+}
+
+.card-active-wrapper .overlap-group {
+  height: 502px;
+  position: relative;
+  width: 370px;
+}
+
+.card-active-wrapper .liner {
+  background-image: url(https://cdn.animaapp.com/projects/652e7ef9f98085b3df943d25/releases/652e7feab6383c0002cbbb1f/img/photo-58.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 502px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 370px;
+}
+
+.card-active-wrapper .liner-2 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 98.14%);
+  border-radius: 16px;
+  height: 502px;
+}
+
+.card-active-wrapper .name-price-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 24px;
+  position: absolute;
+  top: 430px;
+}
+
+.card-active-wrapper .text-wrapper-6 {
+  color: var(--secondary-colorswhite);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  width: 322px;
+}
+
+.card-active-wrapper .name-price-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.card-active-wrapper .text-wrapper-7 {
+  color: var(--secondary-colorswhite);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  width: 243px;
+}
+
+.card-active-wrapper .text-wrapper-8 {
+  color: var(--secondary-colorswhite);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  width: 63px;
+}
+
+.card-active-wrapper .card-instance {
+  flex: 0 0 auto !important;
+}
+
+.card-active-wrapper.active {
+  height: 502px;
+  width: 370px;
+}
+
+.card-active-wrapper.normal {
+  align-items: flex-start;
+  display: inline-flex;
+  position: relative;
+}

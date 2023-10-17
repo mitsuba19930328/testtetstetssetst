@@ -1,0 +1,1 @@
+export { IconsBlackUnfillChat } from "./IconsBlackUnfillChat";

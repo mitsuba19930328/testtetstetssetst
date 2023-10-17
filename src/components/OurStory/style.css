@@ -1,0 +1,111 @@
+.our-story {
+  align-items: flex-start;
+  background-color: var(--secondary-colorswhite);
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 80px 135px;
+  position: relative;
+}
+
+.our-story .content {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--grey-colorsgrey-300);
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+  width: 1170px;
+}
+
+.our-story .content-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.our-story .photo {
+  height: 531px;
+  object-fit: cover;
+  position: relative;
+  width: 370px;
+}
+
+.our-story .our-story-wrapper {
+  align-items: center;
+  background-color: var(--primary-colorsblack);
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  height: 531px;
+  justify-content: center;
+  padding: 182px 24px;
+  position: relative;
+}
+
+.our-story .div-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  justify-content: center;
+  margin-bottom: -28.5px;
+  margin-top: -28.5px;
+  position: relative;
+}
+
+.our-story .button-2 {
+  background-color: var(--secondary-colorswhite) !important;
+  flex: 0 0 auto !important;
+}
+
+.our-story .button-3 {
+  white-space: nowrap !important;
+  width: fit-content !important;
+}
+
+.our-story .SOPA {
+  color: var(--secondary-colorswhite);
+  font-family: var(--headers-t3-font-family);
+  font-size: var(--headers-t3-font-size);
+  font-style: var(--headers-t3-font-style);
+  font-weight: var(--headers-t3-font-weight);
+  letter-spacing: var(--headers-t3-letter-spacing);
+  line-height: var(--headers-t3-line-height);
+  position: relative;
+  text-align: center;
+  width: 363px;
+}
+
+.our-story .learn-more {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.our-story .SOPA-was-born-out-of {
+  color: var(--primary-colorsblack);
+  font-family: var(--headers-t8-font-family);
+  font-size: var(--headers-t8-font-size);
+  font-style: var(--headers-t8-font-style);
+  font-weight: var(--headers-t8-font-weight);
+  height: 222px;
+  letter-spacing: var(--headers-t8-letter-spacing);
+  line-height: var(--headers-t8-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 357px;
+}
+
+.our-story .button-4 {
+  flex: 0 0 auto !important;
+}
